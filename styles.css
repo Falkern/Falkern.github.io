@@ -135,23 +135,3 @@ footer {
     height: 28px;
   }
 }
-
-@media (max-width: 480px) {
-  .mac-header {
-    padding: 6px;
-  }
-
-  .mac-buttons span {
-    width: 10px;
-    height: 10px;
-  }
-
-  .mac-content {
-    padding: 10px;
-  }
-
-  .github svg {
-    width: 24px;
-    height: 24px;
-  }
-}
