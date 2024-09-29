@@ -1,3 +1,9 @@
+
+<!--
+  This is a dummy file.
+  Still testing out the Vue.js code privately
+-->
+
 <template>
   <div id="app">
     <h1>Vue.js Counter</h1>
