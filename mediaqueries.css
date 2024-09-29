@@ -1,39 +1,29 @@
-/* media queries */
-@media (max-width: 768px) {
-    .mac-window {
-      width: 90%;
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: rgb(0, 0, 0);
     }
-  
-    .mac-content {
-      padding: 15px;
+}
+
+@media only screen and (min-width: 600px) and (max-width: 768px) {
+    body {
+        background-color: rgb(0, 0, 0);
     }
-  
-    footer {
-      bottom: 10px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    body {
+        background-color: rgb(0, 0, 0);
     }
-  
-    .github svg {
-      width: 28px;
-      height: 28px;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    body {
+        background-color: rgb(0, 0, 0);
     }
-  }
-  
-  @media (max-width: 480px) {
-    .mac-header {
-      padding: 6px;
+}
+
+@media only screen and (min-width: 1200px) {
+    body {
+        background-color: rgb(0, 0, 0);
     }
-  
-    .mac-buttons span {
-      width: 10px;
-      height: 10px;
-    }
-  
-    .mac-content {
-      padding: 10px;
-    }
-  
-    .github svg {
-      width: 24px;
-      height: 24px;
-    }
-  }
+}
