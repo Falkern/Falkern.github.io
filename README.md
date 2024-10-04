@@ -3,6 +3,7 @@
 still have many things to complete
 
 to-do: <br>
-get contact section working<br>
-better animations (animate on scroll)<br>
-create a clean ui/ux
+better animations <br>
+create a clean ui/ux <br>
+centering and alignments <br>
+multiple device support (mediaqueries)
